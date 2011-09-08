@@ -1,5 +1,5 @@
 # Links úteis
-* [gedit](http://projects.gnome.org/gedit/ "gedit")
-* [vim](http://www.vim.org/ "vim")
-* [rvm](http://beginrescueend.com/ "rvm")
-* [git](http://git-scm.com/ "git")
+* IDE [gedit](http://projects.gnome.org/gedit/ "gedit")
+* IDE [vim](http://www.vim.org/ "vim")
+* Gerenciador de versões Ruby [rvm](http://beginrescueend.com/ "rvm")
+* Gerenciador de código fonte [git](http://git-scm.com/ "git")
