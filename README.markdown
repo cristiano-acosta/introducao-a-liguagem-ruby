@@ -8,3 +8,4 @@
 * [Framework web Sinatra](http://www.sinatrarb.com/)
 * [Repositório de gems](http://rubygems.org/)
 * [Padrão de autenticação 2.0](http://oauth.net/)
+* [RubyMine IDE](http://www.jetbrains.com/ruby/)
